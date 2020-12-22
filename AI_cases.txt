@@ -1,0 +1,18 @@
+
+----- making decision on forward card -----
+
+Case1: player = 23, ai = 1
+-> D = 0.
+
+Case2: a: player = 41, ai = 21
+-> D = 0. 			-> Use card on player
+
+Case2: b: player = 87, ai = 8
+-> D = 1.
+
+Case3: player = 1, ai = 23
+-> D = 2.			-> Discard (impossible)
+
+Case4: player = 1, ai = 1
+-> D = 1.
+
